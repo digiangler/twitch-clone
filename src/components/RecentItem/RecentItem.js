@@ -18,7 +18,7 @@ const RecentItem = ({ url, title, url2 }) => {
         <img src={url2} alt="" />
         <div className="item__detailsText">
           <h4>{title}</h4>
-          <p>Ninja</p>
+          <p>Digi-Angler</p>
           <p>Gameing</p>
         </div>
       </div>

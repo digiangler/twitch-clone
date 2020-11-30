@@ -11,7 +11,7 @@ function Channel({ avatar, name, followers }) {
         <Avatar src={avatar} />
         <p style={{ marginLeft: "10px" }}>{name}</p>
       </div>
-      <p>🔴{followers}</p>
+      <p>🔴 {followers}</p>
     </div>
   );
 }
